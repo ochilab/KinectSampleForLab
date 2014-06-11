@@ -1,0 +1,11 @@
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\bin\Debug\KinectSampleForLab.exe
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\bin\Debug\KinectSampleForLab.pdb
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\obj\x86\Debug\MainWindow.baml
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\obj\x86\Debug\App.g.cs
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\obj\x86\Debug\KinectSampleForLab_MarkupCompile.cache
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\obj\x86\Debug\KinectSampleForLab.g.resources
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\obj\x86\Debug\KinectSampleForLab.Properties.Resources.resources
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\obj\x86\Debug\KinectSampleForLab.csproj.GenerateResource.Cache
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\obj\x86\Debug\KinectSampleForLab.exe
+C:\Users\ochi.OCHILAB\Dropbox\Visualstudio\KinectSampleForLab\KinectSampleForLab\obj\x86\Debug\KinectSampleForLab.pdb
